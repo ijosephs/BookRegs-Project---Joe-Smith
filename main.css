@@ -1,0 +1,21 @@
+/* 
+    Created on : Aug 3, 2014, 
+    Author     : Joe Smith
+*/
+img{
+    width:100%;
+    max-width:300px;
+    visibility:visible
+}
+.colwrapper { width:1020px;}
+.ltcol, .ctcol, .rtcol { 
+    width:300px; 
+    margin:0 10px; 
+    padding:10px; 
+    height:400px;
+    background-color: #efefef 
+}
+.ltcol { float:left; }
+.ctcol { float:left; }
+.rtcol { float:left; }
+.clear { clear: left; }
