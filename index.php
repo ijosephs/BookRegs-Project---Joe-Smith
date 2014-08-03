@@ -8,7 +8,7 @@ Joe Smith
         <meta charset="UTF-8">
         <title>BookRags Assignment Joe Smith</title>
         <link href="main.css" type="text/css" rel="stylesheet" >
-        <?PHP require ("BookRagsLib.php"); ?>
+        <?PHP require ("bookRagsLib.php"); ?>
         
     </head>
     <body>
